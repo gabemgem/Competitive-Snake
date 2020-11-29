@@ -1,0 +1,6 @@
+Snake KEYWORD1
+moveHead KEYWORD2
+checkCollision KEYWORD2
+checkIntersection KEYWORD2
+fadeColor KEYWORD2
+isFaded KEYWORD2
